@@ -1,0 +1,46 @@
+body {
+  background-color: hsla(311,6%,35%,1);
+  background-image: url(../images/fab2.png);
+}
+
+header {
+  img{
+    width: 100%;
+  }
+  h1 {
+        color: #fff;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    font-weight: bold;
+    font-size: 70px;
+  }
+}
+
+.section1 {
+  margin: 0 auto;
+  text-align: center;
+  img {
+    width: 80%;
+    text-align: center;
+    margin: 20px auto;
+
+  }
+}
+
+.section2 {
+  width: 95%;
+  max-width: 960px;
+  margin: 0 auto;
+    color: #fff;
+  h1 {
+    font-family: 'Tangerine', cursive;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+  }
+
+  p {
+    font-size: 18px;
+  }
+}
